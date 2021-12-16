@@ -1,0 +1,944 @@
+cpuUsage: 4,166667
+cpuTemp: 79
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 11,617
+gpuTemp: 36
+gpuCoreFrequency: 1493
+gpuMemoryFrequency: 3504
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 54
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 8,420203
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 55
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,9961
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,879699
+cpuTemp: 54
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,48961
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5639098
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,10361
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,033835
+cpuTemp: 54
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,60537
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,50685
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,06091
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,537594
+cpuTemp: 55
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 15,80805
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,691729
+cpuTemp: 55
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 15,55805
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 6,390977
+cpuTemp: 54
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 18,70491
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,496746
+cpuTemp: 55
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 16,30262
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,3759398
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,89284
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,32982
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 55
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,31904
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,161654
+cpuTemp: 52
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,99088
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,23012
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1865672
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,21148
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 52
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,23411
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,6578947
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,15129
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,033835
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,36353
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,126417
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,19938
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 52
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,20521
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,7462686
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,24895
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,22676
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,409774
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,20371
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,985075
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,20726
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1879699
+cpuTemp: 52
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,2098
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,032432
+cpuTemp: 52
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,2698
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 51
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,23152
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,679104
+cpuTemp: 51
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,8273
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 51
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,3394
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,8458647
+cpuTemp: 51
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,19789
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1879699
+cpuTemp: 51
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,29701
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,7511783
+cpuTemp: 51
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,22767
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,585821
+cpuTemp: 51
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,13335
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 51
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,10428
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 51
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,21996
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,22613
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,8458647
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,24663
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,503759
+cpuTemp: 50
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,33815
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,17162
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1893939
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,23152
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1879699
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,16901
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,8395522
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,21484
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,067669
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,83592
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 50
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,21165
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1872685
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,15689
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,127118
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,11614
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09328358
+cpuTemp: 50
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,16685
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 3,882576
+cpuTemp: 59
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 15,99171
+gpuTemp: 35
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5639098
+cpuTemp: 50
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,16258
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1879699
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,15289
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,7518797
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,11333
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,14666
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,61194
+cpuTemp: 51
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 15,14133
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,3759398
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,23802
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,17708
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,033835
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,84471
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,6586068
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,14399
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,7455777
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,90869
+gpuTemp: 35
+gpuCoreFrequency: 607,5
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,630435
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,59472
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,22863
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,33264
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1872685
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,14155
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5555556
+cpuTemp: 53
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,71625
+gpuTemp: 0
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,231061
+cpuTemp: 50
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,3292
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,399254
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,16813
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5639098
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,24061
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,05747
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1872685
+cpuTemp: 49
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,18717
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,034547
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,56941
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,033133
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,31547
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,18749
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2798508
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,1839
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5639098
+cpuTemp: 52
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,61635
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,7518797
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,96933
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,16159
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,146925
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,13708
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,1553
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,3759398
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,6758
+gpuTemp: 0
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,022059
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,26444
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1879699
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,13451
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5696276
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,10108
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,879699
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,15255
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,24952
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 2,161654
+cpuTemp: 47
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,88058
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,307373
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,18884
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,12439
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,16509
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,8472887
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,34142
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,689625
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,18904
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5639098
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,19083
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,16001
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,221804
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,27915
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2826669
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,17585
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,972983
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 15,0219
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1879699
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,13377
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,12296
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,20828
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2798508
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,26444
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,609848
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,36116
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1865672
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,13859
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,1893939
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,179
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,26409
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,5639098
+cpuTemp: 48
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,19427
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 4,135338
+cpuTemp: 49
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 15,4987
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0
+cpuTemp: 47
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,13619
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,4699248
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,11005
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 47
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,13655
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,3759398
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,197
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2819549
+cpuTemp: 47
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 13,12201
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,09398496
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,13766
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,58513
+cpuTemp: 47
+cpuFrequency: 3906,975
+CPU Power Draw - Package: 14,089
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,6628788
+cpuTemp: 52
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,51345
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 1,597744
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,86825
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,2840909
+cpuTemp: 47
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 13,1586
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
+cpuUsage: 0,8458647
+cpuTemp: 48
+cpuFrequency: 4007,154
+CPU Power Draw - Package: 14,39707
+gpuTemp: 34
+gpuCoreFrequency: 139
+gpuMemoryFrequency: 405
+gpuUsage: 0
