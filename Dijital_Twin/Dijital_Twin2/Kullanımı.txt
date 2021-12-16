@@ -1,0 +1,5 @@
+Dijital_Twin2.sln C# ile oluşturulmuş bir çözüm dosyasıdır mevcut projeyi tekrardan ayaklandırmaya sağlar.
+Dijital_Twin/Dijital_Twin2/Dijital_Twin2/bin yolunun içinde bulunan Dijital_Twin2.Exe bilgisayardan verilerin çekilmesini sağlar
+Ancak çekirdek seviyesinde işlem yaptığı için yönetici olarak çalıştırmak gerekir.
+Veriler.txt elde edilmiş tüm verileri tutar.
+Veriler2.csv , excel'de .txt dosyasından .csv dönüşümü yapıldığı vakit elde kalan verilerdir.(Bir çok yol denedim lakin direk excel'e kaydetmeyi beceremedim)
