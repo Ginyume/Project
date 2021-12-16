@@ -1,0 +1,2 @@
+Programı kullanmak için CMD'den aşağıdaki kod çalıştırılmalıdır.
+python YüzTanı.py "resim_Yolu"
